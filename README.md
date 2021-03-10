@@ -13,4 +13,4 @@ This is a completely useless program and I probably wont use it in the exam, but
 <br>
 Also please note that this was never compiled and tested on windows, and owing to the fact that I used a ton of bash color-codes, it'll probably look like a mess.. (though i have no idea if windows command prompt can properly display bash color-codes..)
 <br>
-If you do want to run this on windows you'll need [visual studio c++ stuff](https://visualstudio.microsoft.com/vs/features/cplusplus/) downloaded..
+If you do want to run this on windows you'll need [visual studio c++ stuff](https://visualstudio.microsoft.com/vs/features/cplusplus) downloaded..
