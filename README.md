@@ -5,7 +5,7 @@ Code is a little messy and spagetti as i rarely write in c/c++.
 ### Build
 This was built and tested only on linux (Ubuntu 20.4). Uses C++17 (g++ toolchain). You can download, compile and run it if you are using any other unix or linux based systems (mac os, ubuntu, mint, etc..):
 ```sh
-$ git clone https://github.com/cryptidv/school-voting-program.cpp.git && g++ main.cpp -std=c++17 -o program.out && ./program.out
+$ git clone https://github.com/cryptidv/school-voting-program.cpp.git && cd school-voting-program.cpp && g++ main.cpp -std=c++17 -o program.out && ./program.out
 ```
 ###### Note: The above assumes you have the g++ toolchain installed on your system.
 <br>
